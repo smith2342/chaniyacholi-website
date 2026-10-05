@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+isolate/
+*.tsbuildinfo
+
+# Environment files (managed by Freebuff — never commit)
+.env
+.env.*
+.env.local
+
+# Logs & OS files
+*.log
+.DS_Store
